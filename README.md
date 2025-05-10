@@ -1,5 +1,6 @@
 # Marlin 3D Printer Firmware
-<img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
+
+This is my customized build of Marlin 1.1.9 for Ender 3 with BLTouch
 
 ## Marlin 1.1
 
